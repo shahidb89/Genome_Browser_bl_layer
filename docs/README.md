@@ -124,7 +124,7 @@ To use any function, ensure that the `dbapi` and `config` modules are available 
 
 Example usage:
 ```python
-from business_logic_api import *
+from blapi import *
 
 # Fetch all database entries
 entries = getAllEntries()
